@@ -83,7 +83,36 @@ cd barbearia-dos-amigos
 # 3. Abra o index.html no navegador
 ```
 Ou visualize direto no GitHub Pages:
-📍 https://adrieldonega.github.io/barbearia-dos-amigos
+📍 Projeto Barbearia dos Amigos! [90% Concluído]
+
+Tive a honra de desenvolver o site da Fred Barbearia dos Amigos, uma barbearia de bairro com alma e história — fundada em 2017 pelo Fred.
+
+Esse foi meu primeiro projeto real, onde eu tive que esboçar todos os meus conhecimentos aprendidos até aqui e ainda aprender uma tecnologia muito bacana que é o SASS.
+
+Tecnologias usadas:
+
+HTML5 semântico
+
+SASS com organização por módulos
+
+JavaScript puro
+
+Animações com AOS
+
+Layout 100% responsivo
+
+Carrossel de galeria com looping automático
+
+Integração com WhatsApp, Instagram e Google Maps
+
+
+O que eu Aprendi?
+
+Refinei minha lógica de JS, melhorei minha estrutura de CSS com SASS.
+
+Segue link do projeto completo Online
+👉 https://github.com/adrieldonega/barbeariaDosAmigos
+👉 https://adrieldonega.github.io/barbeariaDosAmigos/
 
 --- 
 ## 🤝 Agradecimentos
