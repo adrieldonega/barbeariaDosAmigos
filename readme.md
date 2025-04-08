@@ -112,6 +112,7 @@ Refinei minha lógica de JS, melhorei minha estrutura de CSS com SASS.
 
 Segue link do projeto completo Online
 👉 https://github.com/adrieldonega/barbeariaDosAmigos
+
 👉 https://adrieldonega.github.io/barbeariaDosAmigos/
 
 --- 
